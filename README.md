@@ -1,4 +1,4 @@
-# terraform-s3-locking
+# Terraform-S3-Locking
 
 # Terraform AWS Infrastructure Demo  
 
@@ -28,7 +28,19 @@ Before using this Terraform code, ensure you have the following:
 3. **Apply the changes**
    ```sh
    terraform apply -auto-approve
-**Once completed with the demo**
-4. **Destroy the infrastructure**
+
+Once the demo is completed, destroy the infrastructure to avoid charges
+
+4. **Destroy the changes**
    ```sh
    terraform destroy -auto-approve
+
+## Notes
+
+- This code is for demo purposes only and should not be used in production.
+- Modify the terraform varibales as per your AWS environment before deployment.
+
+## License
+
+This project is licensed under the MIT License.
+
