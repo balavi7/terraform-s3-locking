@@ -1,4 +1,4 @@
-ami = "ami-0dee22c13ea7a9a67"
-instance_type = "t3.micro"
-key_name = "new_key"
+ami = "select any ami from AWS"
+instance_type = "t2.micro"
+key_name = "yourkey"
 region = "ap-south-1"
