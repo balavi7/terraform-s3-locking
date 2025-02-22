@@ -42,5 +42,5 @@ Once the demo is completed, destroy the infrastructure to avoid charges
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
